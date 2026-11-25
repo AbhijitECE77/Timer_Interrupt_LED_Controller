@@ -1,0 +1,17 @@
+# Build products
+build/
+Debug/
+Release/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# STM32CubeIDE / Eclipse workspace metadata (keep source files only)
+.settings/
+.project
+.cproject
+.mxproject
+.metadata/
